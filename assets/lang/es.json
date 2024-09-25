@@ -62,5 +62,13 @@
   "serviceHours": "Todos los días: 8:00 - 21:00",
   "location": "Ubicación",
   "address": "Prolongación Primavera 2390, Santiago de Surco 15023",
-  "footerCopyright": "Derechos de autor © 2024 RocketNotes. Todos los derechos reservados."
+  "footerCopyright": "Derechos de autor © 2024 RocketNotes. Todos los derechos reservados.",
+  "ourAppTitle": "Nuestra App",
+  "ourAppDescription": "Descubre cómo nuestra app puede ayudarte a gestionar todas tus tareas de forma más eficiente, desde cualquier lugar.",
+  "appMobileFeature1": "Función 1",
+  "appMobileFeatureDesc1": "Gestiona tus clases y actividades de forma eficiente desde tu dispositivo móvil.",
+  "appMobileFeature2": "Función 2",
+  "appMobileFeatureDesc2": "Accede a reportes y estadísticas en tiempo real sobre el rendimiento estudiantil.",
+  "appMobileFeature3": "Función 3",
+  "appMobileFeatureDesc3": "Comunicación directa y fácil con estudiantes, padres y colegas."
 }
