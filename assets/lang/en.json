@@ -62,7 +62,16 @@
   "email": "rocketcompany@gmail.com",
   "serviceHours": "Every day: 8:00 - 21:00",
   "location": "Location",
+  "ourAppTitle": "Our App",
+  "ourAppDescription": "Discover how our app can help you manage all your tasks more efficiently, from anywhere.",
+  "appMobileFeature1": "Feature 1",
+  "appMobileFeatureDesc1": "Manage your classes and activities efficiently from your mobile device.",
+  "appMobileFeature2": "Feature 2",
+  "appMobileFeatureDesc2": "Access real-time reports and statistics on student performance.",
+  "appMobileFeature3": "Feature 3",
+  "appMobileFeatureDesc3": "Direct and easy communication with students, parents, and colleagues.",
   "address": "Prolongación Primavera 2390, Santiago de Surco 15023",
   "footerCopyright": "Copyright © 2024 RocketNotes. All rights reserved."
+
 }
 
